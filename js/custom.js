@@ -1,5 +1,5 @@
 // Scroll to a certain element
-document.getElementById('contact').scrollIntoView({ 
+/* document.getElementById('contact').scrollIntoView({ 
     behavior: 'smooth' 
   });
 
@@ -9,4 +9,4 @@ document.getElementById('portfolio').scrollIntoView({
 
 document.getElementById('about').scrollIntoView({ 
     behavior: 'smooth' 
-});
+}); */
