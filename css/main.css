@@ -83,6 +83,11 @@ a:hover {
 
 .imprint {
   font-size: .9em;
+  color: #606060;
+}
+
+.imprint a {
+  color: #606060;
 }
   
 .number { 
