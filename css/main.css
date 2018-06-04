@@ -65,7 +65,6 @@ a:hover {
 }
 
 .caption {
-  float: left; 
   margin-top: 1em;
   color: #606060 !important;    
 }
@@ -73,10 +72,10 @@ a:hover {
 .caption a:link {
   text-decoration: none; 
   color: #606060 !important;
+  display: flex;
 }
 
-.captiontext, .imprint {
-  float: left;  
+.captiontext, .imprint { 
   font-size: 1.1rem;
   color: #606060;
 }
@@ -91,7 +90,6 @@ a:hover {
 }
   
 .number { 
-  float: left;
   margin-right: 1.2rem;
   margin-bottom: 5px;
   font-size: 1em;
